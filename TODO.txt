@@ -1,0 +1,4 @@
+TODO: Add support script for installing brew dependencies, python dependencies, etc..
+TODO: Add support for updating previous password
+TODO: Move Pulse Secure VPN to config path file
+TODO: Add support for generating Pulse config
